@@ -1,4 +1,4 @@
-# OMMO:A Large-scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstrcution
+# OMMO
 
 ### [A Large-scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstrcution](https://ommo.luchongshan.com/)
 ### [Project Page](https://ommo.luchongshan.com/) | [Arxiv](https://arxiv.org/abs/2301.06782)
