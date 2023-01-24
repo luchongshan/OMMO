@@ -1,6 +1,6 @@
 # OMMO
 
-### A Large-scale ***O***utdoor ***M***ulti-***m******o***dal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstrcution
+### A Large-scale <font color="#006600">O</font>utdoor <font color="#006600">M</font>ulti-<font color="#006600">m</font><font color="#006600">o</font>dal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstrcution
 ### [Project Page](https://ommo.luchongshan.com/) | [Arxiv](https://arxiv.org/abs/2301.06782)
 
 
