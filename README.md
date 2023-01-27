@@ -12,8 +12,8 @@ Released the pre version of ommo dataset at 2023/01/27,some content remaining to
 
 ##  Download
 
-### [data] (https://drive.google.com/drive/folders/1Nu_xD4CUc_1f2YKEbdZP-nfbzyI3na7m?usp=sharing)
-Some of scene data are not the highest resloution version for quick access to our dataset, this part will be replaced asap.
+### [data](https://drive.google.com/drive/folders/1Nu_xD4CUc_1f2YKEbdZP-nfbzyI3na7m?usp=sharing)
+Note:Some of scene data are not the highest resloution version for quick access to our dataset, this part will be replaced asap.
 
 ### [checkpoints]
 
