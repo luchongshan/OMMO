@@ -5,23 +5,21 @@
 
 
 ## 🚩 News
-
 Released the pre version of ommo dataset at 2023/01/27,some content remaining to be updated and uploaded
 
-##  [Demo](https://www.loom.com/share/7b9ed35bfb3649eda051398d3a51cda7)
+##  [Demo Video](https://www.loom.com/share/7b9ed35bfb3649eda051398d3a51cda7)
 
 ##  Download
-
 ### [data link](https://drive.google.com/drive/folders/1Nu_xD4CUc_1f2YKEbdZP-nfbzyI3na7m?usp=sharing)
 Note:Some of scene data are not the highest resloution version for quick access to our dataset, this part will be replaced asap.
 
-### [checkpoints]
+<!-- ### [checkpoints]
 
 
 ## BibTex
 
 ## Acknowledgments
-
+ -->
 ## License
 This code is distributed under an [MIT LICENSE](LICENSE).
 
