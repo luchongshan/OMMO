@@ -6,17 +6,17 @@
 
 ## 🚩 News
 
-##  Quick Start
+Released the pre version of ommo dataset at 2023/01/27,some content remaining to be updated and uploaded
 
 ##  [Demo](https://www.loom.com/share/7b9ed35bfb3649eda051398d3a51cda7)
 
-##  Download(coming soon)
+##  Download
 
-### [data]
+### [data] (https://drive.google.com/drive/folders/1Nu_xD4CUc_1f2YKEbdZP-nfbzyI3na7m?usp=sharing)
+Some of scene data are not the highest resloution version for quick access to our dataset, this part will be replaced asap.
 
 ### [checkpoints]
 
-## Visualization
 
 ## BibTex
 
