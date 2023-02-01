@@ -13,10 +13,20 @@ Released the pre version of ommo dataset at 2023/01/27,some content remaining to
 ### [data link](https://drive.google.com/drive/folders/1Nu_xD4CUc_1f2YKEbdZP-nfbzyI3na7m?usp=sharing)
 Note:Some of scene data are not the highest resloution version for quick access to our dataset, this part will be replaced asap.
 
+## Citation
+```
+@article{lu2023large,
+  title={A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction},
+  author={Lu, Chongshan and Yin, Fukun and Chen, Xin and Chen, Tao and Yu, Gang and Fan, Jiayuan},
+  journal={arXiv preprint arXiv:2301.06782},
+  year={2023}
+}
+```
+
 <!-- ### [checkpoints]
 
 
-## BibTex
+
 
 ## Acknowledgments
  -->
